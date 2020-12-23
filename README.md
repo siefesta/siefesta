@@ -1,6 +1,5 @@
 ### Hello 👋
 
-💬 지금은 공사중..
 <!--
 **siefesta/siefesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
