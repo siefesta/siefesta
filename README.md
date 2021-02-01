@@ -3,7 +3,7 @@
 ### 📧 53fortest@gmail.com
 
 🌟Just Write Code EveryDay
-
+* Interested in improving developer experience, ecommerce, climbing, and cats🐈 
 
 ⚡ About My Techs & Tools ⚡
 
