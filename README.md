@@ -1,6 +1,6 @@
 ### Hello 👋
 
-<img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 53fortest@gmail.com
+<img src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 53fortest@gmail.com
 
 <center>
 ⚡ About Skiils ⚡
