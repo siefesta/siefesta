@@ -3,10 +3,10 @@
 ### 📧 53fortest@gmail.com
 
 🌟Just Coding EveryDay
-* Interested in improving developer experience, ecommerce, climbing, and cats🐈      
-
-
-
+  Interested in improving developer experience, ecommerce, climbing, and cats🐈      
+   
+   
+   
 ⚡ About My Techs & Tools ⚡   
 
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>    <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>    <img src="https://img.shields.io/badge/-swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <br/> 
