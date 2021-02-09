@@ -4,7 +4,7 @@
 
 🌟Just Coding EveryDay   
   Interested in improving developer experience, ecommerce, climbing, and cats🐈      
-  Now I'm working on a iOS quiz app :)  
+  Now I'm working on a React-Native app :)  
 
 
 
