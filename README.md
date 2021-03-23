@@ -4,7 +4,7 @@
 
 🌟Just Coding EveryDay   
   Interested in improving developer experience, ecommerce, climbing, and cats🐈      
-  Launch iOS App soon :)!!
+  Launch iOS App soon :)!!  
 
 
 
