@@ -3,7 +3,7 @@
 ### 📧 siefesta@gmail.com
 
 🌟Just Coding EveryDay   
-  Interested in improving developer experience, ecommerce, climbing, and cats🐈      
+  Interested in improving developer experience, ecommerce, climbing, and cats🐈       
   Launch iOS App soon :)!!  
 
 
