@@ -2,9 +2,9 @@
 
 ### 📧 siefesta@gmail.com
 
-🌟Just Coding EveryDay   
-  Interested in improving developer experience, ecommerce, climbing, and cats🐈    
-  Launch Kotlin App soon :) !!   
+🌟Just Do It!
+  Interested in improving developer experience and cats🐈    
+ 
 
 
 
