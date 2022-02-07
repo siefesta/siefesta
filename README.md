@@ -2,7 +2,7 @@
 
 ### 📧 siefesta@gmail.com
 
-🌟collectiong cute cats!!🐈   
+🌟collecting cute cats!!🐈   
  
 
 
