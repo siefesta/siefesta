@@ -2,7 +2,7 @@
 
 ### 📧 siefesta@gmail.com
 
-🌟coding with cute cats!!🐈   
+🌟cats rulse the world🐈   
  
 
 
