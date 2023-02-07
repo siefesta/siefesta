@@ -2,7 +2,7 @@
 
 ### 📧 siefesta@gmail.com
 
-🌟cats rulse the world🐈   
+🌟cats rule the world🐈   
  
 
 
