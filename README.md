@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/-swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 <b><b><b><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
 <b><b><b><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<b><b><b>
 <!-- BOJ Profile -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pika)](https://solved.ac/pika)
 
