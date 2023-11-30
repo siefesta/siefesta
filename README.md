@@ -10,6 +10,10 @@
 <img src="https://img.shields.io/badge/-swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 <b><b><b><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
 <b><b><b><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<b>
+<b>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pika)](https://solved.ac/pika/)
+
 
 <!--
 **siefesta/siefesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
